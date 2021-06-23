@@ -9,10 +9,13 @@ GraphQL Api is created through which a user can :
 - Delete a particular audio using its title
 
 
-Tech Stack :
+Tech Stack and Tools:
    - Golang
    - GraphQL
    - PostgresQL
+   - pgAdmin
+   - Postman
+
 
 Packages and Libraries :
    - go get github.com/graphql-go/graphql
@@ -20,3 +23,10 @@ Packages and Libraries :
    - go get github.com/lib/pq
 
 
+Database  :
+   - User should have postgresql installed
+   - User Should import the attached audio.sql file before making requests
+                              
+
+Postman Collection Link :
+   - https://www.getpostman.com/collections/76ba6e40ddb3bc582375
