@@ -16,6 +16,8 @@ Tech Stack and Tools:
    - pgAdmin
    - Postman
 
+Run this command to clone this repository :
+   - git clone https://github.com/sneh-saurav/GraphQL_API.git
 
 Packages and Libraries :
    - go get github.com/graphql-go/graphql
@@ -35,5 +37,4 @@ Postman Collection Link :
 How to run the Server :
    - go run GraphQL_API.go
 
-Run this command to clone this repository :
-   - git clone https://github.com/sneh-saurav/GraphQL_API.git
+
