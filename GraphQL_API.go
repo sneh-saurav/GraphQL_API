@@ -305,7 +305,7 @@ func main() {
 		Query:    rootQuery,
 		Mutation: rootMutation,
 	})
-
+	// Hander
 	h := handler.New(&handler.Config{
 		Schema:   &schema,
 		Pretty:   true,
