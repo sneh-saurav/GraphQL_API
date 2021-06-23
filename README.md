@@ -30,3 +30,7 @@ Database  :
 
 Postman Collection Link :
    - https://www.getpostman.com/collections/76ba6e40ddb3bc582375
+
+
+How to run the Server :
+   - go run GraphQL_API.go
