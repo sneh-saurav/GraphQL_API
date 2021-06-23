@@ -25,7 +25,7 @@ Packages and Libraries :
 
 Database  :
    - User should have postgresql installed
-   - User Should import the attached audio.sql file before making requests
+   - User Should import the attached "audio.sql" file before making requests
                               
 
 Postman Collection Link :
